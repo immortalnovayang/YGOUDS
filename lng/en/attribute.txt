@@ -1,0 +1,8 @@
+Mix
+Earth
+Water
+Fire
+Wind
+Light
+Dark
+Divine

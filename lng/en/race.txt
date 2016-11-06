@@ -1,0 +1,25 @@
+Mix
+Warrior
+Spellcaster
+Fairy
+Fiend
+Zombie
+Machine
+Aqua
+Pyro
+Rock
+Winged Beast
+Plant
+Insect
+Thunder
+Dragon
+Beast
+Beast-Warrior
+Dinosaur
+Fish
+Sea Serpent
+Reptile
+Psychic
+Divine-Beast
+Creator God
+Wyrm
