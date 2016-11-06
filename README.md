@@ -18,6 +18,9 @@ C.屬性統計
 ![image](http://i.imgur.com/jgJAApu.png "Attribute Statistic")  
 
 採用Lib:  
+以下已包含在YGOUDS.jar，YGOUDS.jar可直接執行  
+如需重新編譯請另外下載此專案的以下Jar並import到專案中  
+
 HTML parser  
 jsoup-1.8.1.jar  
 
